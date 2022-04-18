@@ -106,12 +106,6 @@
 	      <url>http://3.95.31.157:4000/repository/boa-bts-snapshot/</url>
 	    </snapshotRepository>
 	    	    
-	<imageRepository>
-	      <id>Dockehub</id>
-	      <name>evamaeva/maven-web-app</name>
-	      <url>https://hub.docker.com/repository/docker/evamaeva/maven-web-app</url>
-	   </imageRepository>
-		
 	</distributionManagement>
 	
 	<build>
